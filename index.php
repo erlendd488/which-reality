@@ -3,8 +3,7 @@
   <title>Oh geez... What reality am I in?</title>
 </head>
 
-<!-- TODO: Nothing left to do -->
-  
+ 
 <body>
 <h1> Server Information</h1>
 <?php 
